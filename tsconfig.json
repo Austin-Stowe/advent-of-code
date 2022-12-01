@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "target": "esnext",
+    "sourceMap": true,
+    "outDir": "dist"
+  },
+  "include": ["src/**/*"]
+}
